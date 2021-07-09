@@ -11,7 +11,7 @@ Enable the extension
 
 That's it!
 Try a link like this
-<a src="https://www.allrecipes.com/recipe/238688/caribbean-inspired-grilled-chicken-kabobs/">Kabob</a>
+https://www.allrecipes.com/recipe/238688/caribbean-inspired-grilled-chicken-kabobs/
 
 ## Contributing
 
