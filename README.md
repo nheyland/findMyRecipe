@@ -1,5 +1,7 @@
 # FMFR Chrome Extentsion
 
+Find my fucking recipe
+
 This chrome extension is to help those who just want the recipe and the ingredients, not the bullshit associated with the rest of the Allrecipes.com meals.
 
 ## Installation
